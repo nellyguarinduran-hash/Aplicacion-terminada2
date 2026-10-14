@@ -1,0 +1,18 @@
+{
+  "name": "FastyTurn",
+  "short_name": "FastyTurn",
+  "description": "Gestión de salas de espera médicas con check-in geolocalizado en tiempo real",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#1d4ed8",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
